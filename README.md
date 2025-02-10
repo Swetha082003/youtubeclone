@@ -1,1 +1,5 @@
 # youtubeclone
+
+YouTube is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim, three former employees of PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google Search. In January 2024, YouTube had more than 2.7 billion monthly active users, who collectively watched more than one billion hours of videos every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of content per minute, and as of 2023, there were approximately 14 billion videos in total.
+Here we are gone create a website of our own and see how can it will be developed.
+YouTube, social media platform and website for sharing videos. It was registered on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim, three former employees of the American e-commerce company PayPal. They had the idea that ordinary people would enjoy sharing their “home videos.” The company is headquartered in San Bruno, California
